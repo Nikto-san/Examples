@@ -1,0 +1,15 @@
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\bin\Debug\net6.0\Example004_dif.exe
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\bin\Debug\net6.0\Example004_dif.deps.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\bin\Debug\net6.0\Example004_dif.runtimeconfig.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\bin\Debug\net6.0\Example004_dif.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\bin\Debug\net6.0\Example004_dif.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.csproj.AssemblyReference.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.AssemblyInfoInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.AssemblyInfo.cs
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.csproj.CoreCompileInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\refint\Example004_dif.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\Example004_dif.genruntimeconfig.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example004_dif\obj\Debug\net6.0\ref\Example004_dif.dll

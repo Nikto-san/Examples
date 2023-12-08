@@ -1,0 +1,15 @@
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\bin\Debug\net6.0\Example007_magic.exe
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\bin\Debug\net6.0\Example007_magic.deps.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\bin\Debug\net6.0\Example007_magic.runtimeconfig.json
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\bin\Debug\net6.0\Example007_magic.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\bin\Debug\net6.0\Example007_magic.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.AssemblyReference.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfoInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.AssemblyInfo.cs
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.csproj.CoreCompileInputs.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\refint\Example007_magic.dll
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.pdb
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\Example007_magic.genruntimeconfig.cache
+C:\Users\shulg\Documents\03 GeekBrains\С# study\examples\Example007_magic\obj\Debug\net6.0\ref\Example007_magic.dll
